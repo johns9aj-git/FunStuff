@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 # This creates a file with your name and 
 

@@ -1,0 +1,3 @@
+pingTest,nostarch.com,failure,2025-02-18 09:29:44
+pingTest,8.8.8.8,failure,2025-02-18 09:30:24
+hostPingTest,192.168.90.1,failure,2025-02-18 09:31:43
